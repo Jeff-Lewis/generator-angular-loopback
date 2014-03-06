@@ -1,6 +1,12 @@
-# AngularJS + Express Full Stack Generator 
+## forked from `[DaftMonk/generator-angular-fullstack](https://github.com/DaftMonk/generator-angular-fullstack)`
 
-Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node.
+```
+ Has not push any code yet, except this readme
+```
+
+# AngularJS + Loopback Full Stack Generator 
+
+Yeoman generator for creating MEAN stack applications, using AngularJS, and Loopback API framework.
 
 Featuring: 
 

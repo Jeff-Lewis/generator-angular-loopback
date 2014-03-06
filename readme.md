@@ -1,6 +1,7 @@
-## forked from `[DaftMonk/generator-angular-fullstack](https://github.com/DaftMonk/generator-angular-fullstack)`
+## Initial Note
 
 ```
+ forked from [DaftMonk/generator-angular-fullstack](https://github.com/DaftMonk/generator-angular-fullstack)
  Has not push any code yet, except this readme
 ```
 
